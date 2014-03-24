@@ -114,29 +114,25 @@
                             "type": "Point",
                             "coordinates": [144.25, -42.21]
                         }
-                    }, {
+                    }, 
+                    
+                    {
                         "type": "Feature",
-                        "id": "fished",
+                        "id": "fish",
                         "properties": {
-                            "name": "Then we went here",
-                            "timestamp": "2013-10-23T20:49:00Z",
+                            "name": "Point 4",
                             "type": {
                                 "identifier": "ship-event",
                                 "name": "Ship Event"
                             },
-                            "summary": "And another thing happened. And another thing happened. And another thing happened. And another thing happened. And another thing happened. And another thing happened. And another thing happened. And another thing happened. And another thing happened. And another thing happened. And another thing happened. And another thing happened. And another thing happened. And another thing happened. And another thing happened. And another thing happened. And another thing happened. And another thing happened. And another thing happened. And another thing happened. And another thing happened. And another thing happened. And another thing happened. And another thing happened. And another thing happened. And another thing happened. And another thing happened. And another thing happened. And another thing happened. ",
-                            "url": "#",
-                            "location": "Way up high",
-                            "image": {
-                                "src": "http://www.fillmurray.com/350/150",
-                                "width": 350,
-                                "height": 150,
-                                "caption": "Small Landscape image"
-                            }
+                            "timestamp": "2013-06-26T20:49:00Z",
+                            "summary": "Just this thing",
+                            "location": "Alberquerque",
+                            "url": "#"
                         },
                         "geometry": {
                             "type": "Point",
-                            "coordinates": [144.5, -43.5]
+                            "coordinates": [142, -42.5]
                         }
                     }, {
                         "type": "Feature",
